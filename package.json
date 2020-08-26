@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/haggholm/AndroidScannerDemo.git"
+    "url": "git+https://github.com/joeytitans/AndroidScannerDemo.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/haggholm/AndroidScannerDemo/issues"
+    "url": "https://github.com/joeytitans/AndroidScannerDemo/issues"
   },
-  "homepage": "https://github.com/haggholm/AndroidScannerDemo#readme"
+  "homepage": "https://github.com/joeytitans/AndroidScannerDemo#readme"
 }
