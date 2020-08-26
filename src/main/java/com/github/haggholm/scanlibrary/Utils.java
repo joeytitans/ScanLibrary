@@ -1,4 +1,4 @@
-package com.github.haggholm.scanlibrary;
+package com.github.joeytitans.scanlibrary;
 
 import android.content.Context;
 import android.graphics.Bitmap;

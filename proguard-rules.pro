@@ -15,7 +15,7 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
--keep class com.github.haggholm.scanlibrary.IScanner {public *;}
--keep class com.github.haggholm.scanlibrary.ScanActivity {public *;}
--keep class com.github.haggholm.scanlibrary.ScanConstants {public *;}
--keep class com.github.haggholm.scanlibrary.ScanActivity {public *;}
+-keep class com.github.joeytitans.scanlibrary.IScanner {public *;}
+-keep class com.github.joeytitans.scanlibrary.ScanActivity {public *;}
+-keep class com.github.joeytitans.scanlibrary.ScanConstants {public *;}
+-keep class com.github.joeytitans.scanlibrary.ScanActivity {public *;}

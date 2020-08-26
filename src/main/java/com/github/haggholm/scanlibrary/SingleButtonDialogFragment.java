@@ -1,4 +1,4 @@
-package com.github.haggholm.scanlibrary;
+package com.github.joeytitans.scanlibrary;
 
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
